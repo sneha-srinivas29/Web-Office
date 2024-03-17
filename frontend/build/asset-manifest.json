@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.311e5f22.css",
+    "main.js": "/static/js/main.02f18366.js",
+    "static/js/787.e384222b.chunk.js": "/static/js/787.e384222b.chunk.js",
+    "static/media/about-us.png": "/static/media/about-us.b2d4a8f019e29fdec63f.png",
+    "static/media/background2.png": "/static/media/background2.c56c59677d647dbf781b.png",
+    "static/media/5.png": "/static/media/5.2b8bda6a93ae89e7c05e.png",
+    "static/media/review4.png": "/static/media/review4.6343882860f3bd34d51a.png",
+    "static/media/review5.png": "/static/media/review5.2337e090deca6089d5ae.png",
+    "static/media/review6.png": "/static/media/review6.2337e090deca6089d5ae.png",
+    "static/media/2.png": "/static/media/2.f7cf00bfd44a1caefeb9.png",
+    "static/media/review3.png": "/static/media/review3.af6198920fecf711eedc.png",
+    "static/media/7.png": "/static/media/7.06ae44d033bc6502ac0a.png",
+    "static/media/3.png": "/static/media/3.99572b77c6e5ca54e89c.png",
+    "static/media/6.png": "/static/media/6.a3027b55d6b7710b172f.png",
+    "static/media/Chat.webp": "/static/media/Chat.8f6edd16cde8dd56ed03.webp",
+    "static/media/1.png": "/static/media/1.12d19acabc55f3e0bc8d.png",
+    "static/media/9.png": "/static/media/9.28dd3c37ed30eee5769a.png",
+    "static/media/rect-outline-sm.png": "/static/media/rect-outline-sm.3d1bb7703a4a75cea0f3.png",
+    "index.html": "/index.html",
+    "main.311e5f22.css.map": "/static/css/main.311e5f22.css.map",
+    "main.02f18366.js.map": "/static/js/main.02f18366.js.map",
+    "787.e384222b.chunk.js.map": "/static/js/787.e384222b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311e5f22.css",
+    "static/js/main.02f18366.js"
+  ]
+}
